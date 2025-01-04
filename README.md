@@ -1,1 +1,2 @@
-# Templates for reMarkable
+# reMarkable - Other!
+## Templates for reMarkable
